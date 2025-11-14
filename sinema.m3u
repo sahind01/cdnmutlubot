@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="dmax.tr" tvg-name="DMAX HD" tvg-logo="https://r.resimlink.com/wXslSa.jpg" group-title="SİNEMA",1 - DMAX HD
+https://dogus.daioncdn.net/dmax/dmax.m3u8?app=dmax_web
+#EXTINF:-1 tvg-ID="tlc.tr" tvg-name="TLC HD" tvg-logo="https://r.resimlink.com/wXslSa.jpg" group-title="SİNEMA",2 - TLC HD
+https://dogus.daioncdn.net/tlc/tlc.m3u8?app=tlc_web
+#EXTINF:-1 tvg-ID="beinboxoffice1.tr" tvg-name="BEIN BOX OFFICE 1 HD" tvg-logo="https://r.resimlink.com/wXslSa.jpg/beinboxoffice1.png" group-title="SİNEMA",3 - BEIN BOX OFFICE 1 HD
+http://65.108.239.207:80/box1/index.m3u8
+#EXTINF:-1 tvg-ID="beinboxoffice2.tr" tvg-name="BEIN BOX OFFICE 2 HD" tvg-logo="https://r.resimlink.com/wXslSa.jpg/beinboxoffice2.png" group-title="SİNEMA",4 - BEIN BOX OFFICE 2 HD
+http://65.108.239.207:80/box2/index.m3u8
+#EXTINF:-1 tvg-ID="beinboxoffice3.tr" tvg-name="BEIN BOX OFFICE 3 HD" tvg-logo="https://r.resimlink.com/wXslSa.jpg/beinboxoffice3.png" group-title="SİNEMA",5 - BEIN BOX OFFICE 3 HD
+http://65.108.239.207:80/box3/index.m3u8
+#EXTINF:-1 tvg-ID="beinmoviesaction.tr" tvg-name="BEIN MOVIES ACTION HD" tvg-logo="https://r.resimlink.com/wXslSa.jpg//beinmoviesactionhd.png" group-title="SİNEMA",6 - BEIN MOVIES ACTION HD
+http://65.108.239.207:80/bsaction1/index.m3u8
+#EXTINF:-1 tvg-ID="beinmoviespremier.tr" tvg-name="BEIN MOVIES FAMILY HD" tvg-logo="https://r.resimlink.com/wXslSa.jpg//beinmoviesfamilyhd.png" group-title="SİNEMA",7 - BEIN MOVIES FAMILY HD
+http://65.108.239.207:80/bsfamily/index.m3u8
+#EXTINF:-1 tvg-ID="beinmoviespremier.tr" tvg-name="BEIN MOVIES PREMIER HD" tvg-logo="https://r.resimlink.com/wXslSa.jpg//beinmoviespremierehd.png" group-title="SİNEMA",8 - BEIN MOVIES PREMIER HD
+http://65.108.239.207:80/bspremier1/index.m3u8
+#EXTINF:-1 tvg-ID="beinmoviesstars.tr" tvg-name="BEIN MOVIES STARS HD" tvg-logo="https://r.resimlink.com/wXslSa.jpg//beinmoviesstarshd.png" group-title="SİNEMA",9 - BEIN MOVIES STARS HD
+http://65.108.239.207:80/bsstars/index.m3u8
+#EXTINF:-1 tvg-ID="beinmoviesturk.tr" tvg-name="BEIN MOVIES TURK HD" tvg-logo="https://r.resimlink.com/wXslSa.jpg//beinmoviesturkhd.png" group-title="SİNEMA",10 - BEIN MOVIES TURK HD
+http://65.108.239.207:80/bsturk/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SINEMA TV HD" tvg-logo="https://r.resimlink.com/wXslSa.jpg/sinematv.png" group-title="SİNEMA",11 - SINEMA TV HD
+http://65.108.239.207:80/sinema/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SINEMA TV 2 HD" tvg-logo="https://r.resimlink.com/wXslSa.jpg/sinematv.png" group-title="SİNEMA",12 - SINEMA TV 2 HD
+http://65.108.239.207:80/sinema2/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SINEMA TV 1001 HD" tvg-logo="https://r.resimlink.com/wXslSa.jpg/sinematv1001hd.png" group-title="SİNEMA",13 - SINEMA TV 1001 HD
+http://65.108.239.207:80/sinema1001/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SINEMA TV 1002 HD" tvg-logo="https://r.resimlink.com/wXslSa.jpg/sinematv1002hd.png" group-title="SİNEMA",14 - SINEMA TV 1002 HD
+http://65.108.239.207:80/sinema1002/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SINEMA TV AKSIYON HD" tvg-logo="https://r.resimlink.com/wXslSa.jpg/sinematvaksiyonhd.png" group-title="SİNEMA",15 - SINEMA TV AKSIYON HD
+http://65.108.239.207:80/sinemaaksiyon/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SINEMA TV AKSIYON 2 HD" tvg-logo="https://r.resimlink.com/wXslSa.jpg/sinematvaksiyon2hd.png" group-title="SİNEMA",16 - SINEMA TV AKSIYON 2 HD
+http://65.108.239.207:80/sinemaaksiyon2/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SINEMA TV AILE HD" tvg-logo="https://r.resimlink.com/wXslSa.jpg/sinematvailehd.png" group-title="SİNEMA",17 - SINEMA TV AILE HD
+http://65.108.239.207:80/sinemaaile/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SINEMA TV KOMEDI HD" tvg-logo="https://r.resimlink.com/wXslSa.jpg/sinematvkomedi.png" group-title="SİNEMA",18 - SINEMA TV KOMEDI HD
+http://65.108.239.207:80/sinemakomedi/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SINEMA TV YERLI HD" tvg-logo="https://r.resimlink.com/wXslSa.jpg/sinematvyerlihd.png" group-title="SİNEMA",19 - SINEMA TV YERLI HD
+http://65.108.239.207:80/sinemayerli/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SINEMA TV YERLI 2 HD" tvg-logo="https://r.resimlink.com/wXslSa.jpg/sinematvyerlihd.png" group-title="SİNEMA",20 -SINEMA TV YERLI 2 HD
+http://65.108.239.207:80/sinemayerli2/index.m3u8
