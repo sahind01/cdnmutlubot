@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="TAY TV HD" tvg-logo="https://r.resimlink.com/wXslSa.jpg/taytv.png" group-title="ÇOCUK",1 - TAY TV HD
+https://tjktv-live.tjk.org/tjktv_1080p.m3u8
+#EXTINF:-1 tvg-ID="trtcocuk.tr" tvg-name="TRT COCUK HD" tvg-logo="https://r.resimlink.com/wXslSa.jpg//trtcocuk.png" group-title="ÇOCUK",2 - TRT COCUK HD
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-ID="minikacocuk.tr" tvg-name="MINIKA COCUK HD" tvg-logo="https://r.resimlink.com/wXslSa.jpg//minikacocuk.png" group-title="ÇOCUK",3 - MINIKA COCUK HD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
+#EXTINF:-1 tvg-ID="minikago.tr" tvg-name="MINIKA GO HD" tvg-logo="https://r.resimlink.com/wXslSa.jpg//minikago.png" group-title="ÇOCUK",4 - MINIKA GO HD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
+#EXTINF:-1 tvg-ID="cartoonnetwork.tr" tvg-name="CARTOON NETWORK SD " tvg-logo="https://r.resimlink.com/wXslSa.jpg/cartoonnetwork.png" group-title="ÇOCUK",5 - CARTOON NETWORK SD 
+https://uzayakaczekiye81.mywire.org/index.php?ID=UCehmwSZGPod7JFbHJspmxzQ
