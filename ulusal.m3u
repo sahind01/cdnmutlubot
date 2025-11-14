@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/wXslSa.jpg" group-title="ULUSAL",TRT 1 HD
+https://biraz.6781237.xyz/checklist/androstreamlivetrt1.m3u8
+#EXTINF:-1 tvg-ID="atv.tr" tvg-name="ATV HD" tvg-logo="https://img.logo-cdn.cc/atv.png" group-title="ULUSAL",1 - ATV HD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+#EXTINF:-1 tvg-ID="kanald.tr" tvg-name="KANAL D HD" tvg-logo="https://img.logo-cdn.cc/kanald.png" group-title="ULUSAL",2 - KANAL D HD
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
+#EXTINF:-1 tvg-ID="showtv.tr" tvg-name="SHOW HD" tvg-logo="https://img.logo-cdn.cc/show.png" group-title="ULUSAL",3 - SHOW HD
+https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web
+#EXTINF:-1 tvg-ID="startv.tr" tvg-name="STAR HD" tvg-logo="https://img.logo-cdn.cc/startv.png" group-title="ULUSAL",4 - STAR HD
+https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web
+#EXTINF:-1 tvg-ID="fox.tr" tvg-name="NOW HD" tvg-logo="https://img.logo-cdn.cc/foxhd.png" group-title="ULUSAL",5 - NOW HD
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
+#EXTINF:-1 tvg-ID="beyaztv.tr" tvg-name="BEYAZ HD" tvg-logo="https://img.logo-cdn.cc/beyaz.png" group-title="ULUSAL",6 - BEYAZ HD
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+#EXTINF:-1 tvg-ID="tv8.tr" tvg-name="TV 8 HD" tvg-logo="https://img.logo-cdn.cc/tv8.png" group-title="ULUSAL",7 - TV 8 HD
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=tv8_web
+#EXTINF:-1 tvg-ID="tv85.tr" tvg-name="TV 8.5 HD" tvg-logo="https://img.logo-cdn.cc/tv8.5.png" group-title="ULUSAL",8 - TV 8.5 HD
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web
+#EXTINF:-1 tvg-ID="kanal7.tr" tvg-name="KANAL 7 HD" tvg-logo="https://img.logo-cdn.cc/kanal7.png" group-title="ULUSAL",9 - KANAL 7 HD
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="360 TV HD" tvg-logo="https://img.logo-cdn.cc/360tv.png" group-title="ULUSAL",10 - 360 TV HD
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-ID="a2tv.tr" tvg-name="A2 HD" tvg-logo="https://img.logo-cdn.cc/a2.png" group-title="ULUSAL",11 - A2 HD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
+#EXTINF:-1 tvg-ID="24.tr" tvg-name="TEVE 2 HD" tvg-logo="https://img.logo-cdn.cc/teve2.png" group-title="ULUSAL",12 - TEVE 2 HD
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="EKOL TV HD" tvg-logo="" group-title="ULUSAL",13 - EKOL TV HD
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
+#EXTINF:-1 tvg-ID="trtturk.tr" tvg-name="TRT TURK HD" tvg-logo="https://img.logo-cdn.cc/trtturk.png" group-title="ULUSAL",14 - TRT TURK HD
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-ID="trtavaz.tr" tvg-name="TRT AVAZ HD" tvg-logo="https://img.logo-cdn.cc/trtavaz.png" group-title="ULUSAL",15 - TRT AVAZ HD
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AKIT TV HD" tvg-logo="https://img.logo-cdn.cc/akittvhd.png" group-title="ULUSAL",16 - AKIT TV HD
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="LALEGUL TV SD" tvg-logo="https://img.logo-cdn.cc/lalegul.png" group-title="ULUSAL",17 - LALEGUL TV SD
+https://lbl.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:-1 tvg-ID="semerkandtv.tr" tvg-name="SEMERKAND TV HD" tvg-logo="https://img.logo-cdn.cc/semerkand.png" group-title="ULUSAL",18 - SEMERKAND TV HD
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+#EXTINF:-1 tvg-ID="trtdiyanet.tr" tvg-name="DIYANET TV HD" tvg-logo="https://img.logo-cdn.cc/diyanettv.png" group-title="ULUSAL",19 - DIYANET TV HD
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BENGU TURK HD" tvg-logo="https://img.logo-cdn.cc/benguturk.png" group-title="ULUSAL",20 - BENGU TURK HD
+https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FLASH TV HD" tvg-logo="https://img.logo-cdn.cc//flashhd.png" group-title="ULUSAL",21 - FLASH TV HD
+https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TV 5 HD" tvg-logo="https://img.logo-cdn.cc/tv5.png" group-title="ULUSAL",22 - TV 5 HD
+https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="KOY TV HD" tvg-logo="https://img.logo-cdn.cc/koytv.png" group-title="ULUSAL",23 - KOY TV HD
+https://canlitvme.ismailturret.workers.dev/koytv.m3u8
+#EXTINF:-1 tvg-ID="trt2.tr" tvg-name="TRT 2 HD" tvg-logo="https://img.logo-cdn.cc/trt2.png" group-title="ULUSAL",24 - TRT 2 HD
+https://tv-trt2.medya.trt.com.tr/master.m3u8
