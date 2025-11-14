@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="BBC EARTH HD" tvg-logo="https://r.resimlink.com/wXslSa.jpg//bbcearth.png" group-title="BELGESEL",1 - BBC EARTH HD
+http://65.108.239.207:80/bbc/index.m3u8
+#EXTINF:-1 tvg-ID="discoverychannel.tr" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://r.resimlink.com/wXslSa.jpg/discoverychannel.png" group-title="BELGESEL",2 - DISCOVERY CHANNEL HD
+http://65.108.239.207:80/discovery/index.m3u8
+#EXTINF:-1 tvg-ID="discoveryscience.tr" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://r.resimlink.com/wXslSa.jpg//discoverysciencehd-clivebesle.png" group-title="BELGESEL",3 - DISCOVERY SCIENCE HD
+http://65.108.239.207:80/discs/index.m3u8
+#EXTINF:-1 tvg-ID="historychannel.tr" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://r.resimlink.com/wXslSa.jpg//history.png" group-title="BELGESEL",4 - HISTORY CHANNEL HD
+http://65.108.239.207:80/history/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="LOVE NATURE HD" tvg-logo="https://r.resimlink.com/wXslSa.jpg//lovenature.png" group-title="BELGESEL",5 - LOVE NATURE HD
+http://65.108.239.207:80/lovenature/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VIASAT HISTORY HD" tvg-logo="https://r.resimlink.com/wXslSa.jpg/viasathistory.png" group-title="BELGESEL",6 - VIASAT HISTORY HD
+http://65.108.239.207:80/viasathistory/index.m3u8
+#EXTINF:-1 tvg-ID="yabantv.tr" tvg-name="YABAN TV HD" tvg-logo="https://r.resimlink.com/wXslSa.jpg/yaban.png" group-title="BELGESEL",7 - YABAN TV HD
+http://116.202.238.88/YABANTV_TR/index.m3u8
+#EXTINF:-1 tvg-ID="trtbelgesel.tr" tvg-name="TRT BELGESEL HD" tvg-logo="https://r.resimlink.com/wXslSa.jpg/trtbelgesel.png" group-title="BELGESEL",8 - TRT BELGESEL HD
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CIFTCI TV HD" tvg-logo="https://r.resimlink.com/wXslSa.jpg//ciftcitv.png" group-title="BELGESEL",9 - CIFT TV HD
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
