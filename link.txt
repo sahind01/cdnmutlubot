@@ -1,57 +1,282 @@
-isim=Şömine 
+isim=ŞÖMINE 
 içerik=https://www.youtube.com/live/mKCieTImjvU?si=n2Y5uk4HgEiQy-kS
 logo=https://files.catbox.moe/w7upi1.jpg
 
-isim=BooBaa
+isim=BOOBAA
 içerik=https://www.youtube.com/live/0qe8qW-BKj4?si=KBdZL_Wauxj9CMyT
 logo=https://files.catbox.moe/w7upi1.jpg
 
-isim=Gumball
-içerik=https://www.youtube.com/live/9LDR3lHACKM?si=1n3W8amcXvq7eQUE
-logo=https://files.catbox.moe/w7upi1.jpg
-
-isim=Aksiyon
+sim=AKSIYON
 içerik=https://www.youtube.com/live/G43NInZfoPE?si=WcssTDffpirDYOSq
 logo=https://files.catbox.moe/w7upi1.jpg
 
-isim=Karpuz Adam 
+isim=KARPUZ ADAM 
 içerik=https://www.youtube.com/live/TvZQeEVY7-A?si=319pDlHcJ17229X5
 logo=https://files.catbox.moe/w7upi1.jpg
 
-isim=Niloya 
+isim=NILOYA 
 içerik=https://www.youtube.com/live/g3R4J0YC2Dk?si=k5CqKAyTmcZuge8o
 logo=https://files.catbox.moe/w7upi1.jpg
 
-isim=İstanbul Muhafızları 
+isim=İSTANBUL MUHAFIZLARI 
 içerik=https://www.youtube.com/live/kjFVicM7nLo?si=FmxqF4Mms3hOqIzg
 logo=https://files.catbox.moe/w7upi1.jpg
 
-isim=Kızılcık Şerbeti 
+isim=KIZILCIK ŞERBETI 
 içerik=https://www.youtube.com/live/QXTh9Vqzc18?si=rc43Y8NiogSq-uHV
 logo=https://files.catbox.moe/w7upi1.jpg
 
-isim=Bir Zamanlar Çukurova 
+isim=BIR ZAMANLAR ÇUKUROVA 
 içerik=https://www.youtube.com/live/yq2QNxzcUUo?si=RcSdhxOLFPYXI39i
-logo=https://yt3.ggpht.com/3pcRtdw7lKM3-d8rPyBn1mET0GTstFOx4EUqswlp4sGVFchaf31GXPcz3AjFgIssfvI-6Mgus-M=s48-c-k-c0x00ffffff-no-rj
+logo=https://files.catbox.moe/w7upi1.jpg
 
-isim=Kardeşlerim
+isim=KARDEŞLERIM
 içerik=https://www.youtube.com/live/-vVs9H5Qj6w?si=917fNqdQJ9C3X8AA
 logo=https://files.catbox.moe/w7upi1.jpg
 
-isim=Tolgsow 
+isim=TOLGSOW 
 içerik=https://www.youtube.com/live/eXbVwpA3WVE?si=sPFEOnVSM9xyG1kL
 logo=https://files.catbox.moe/w7upi1.jpg
 
-isim=HZ. Yusuf
+isim=HZ. YUSUF
 içerik=https://www.youtube.com/live/WBxKGYr1jz4?si=hIvc1EuiGFX5OilS
 logo=https://files.catbox.moe/w7upi1.jpg
 
 
+isim=SELENA
+içerik=https://www.youtube.com/live/1lyLi6l74fs?si=3RmbFGrYmx90mug0
+logo=https://files.catbox.moe/w7upi1.jpg
 
 
 
+isim=GUMBALL
+içerik=https://www.youtube.com/live/9LDR3lHACKM?si=1n3W8amcXvq7eQUE
+logo=https://files.catbox.moe/w7upi1.jpg
 
 
+isim=GUMBALL
+içerik=https://www.youtube.com/live/ackE5a43btg?feature=shared
+logo=https://files.catbox.moe/w7upi1.jpg
 
+isim=CENNET MAHALLESİ
+içerik=https://www.youtube.com/live/lf1NxAexRAE?si=YKJWmlxj3mPWX_DI
+logo=https://files.catbox.moe/w7upi1.jpg
 
+isim=KURULUŞ OSMAN
+içerik=https://www.youtube.com/live/PobdnBU-QQE?si=lTcW0vlK37z57Dyz
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=SIFIRBİR ADANA
+içerik=https://www.youtube.com/live/DftbeRzgYaw?si=RNzrf_4yxNq7J4ys
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=RADYO MARANATA
+içerik=https://www.youtube.com/live/ja9yJLmamT4?si=v0J-XuPfErXTyswS
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=TOM & JERRY
+içerik=https://www.youtube.com/live/XDSd6m4SauI?si=2kpmYa5hdDrhTBe-
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=THE LORD OF THE RINGS
+içerik=https://www.youtube.com/live/G43NInZfoPE?si=2cA6PIh-5s0UKGl4
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=TÜRKÇE REMİX POP ŞARKILAR
+içerik=https://www.youtube.com/live/ez7nTy7-K-k?si=nlv-yJfCu_zpnifx
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=YABAN HAYATI
+içerik=https://www.youtube.com/live/gC_YZh_OHRc?si=x_9ZZ0PNP4zDuXcg
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim= 7/24 KEMAL SUNAL
+içerik=https://www.youtube.com/live/pdyq7lixkPI?si=NrG99xEGpf6r5mN4
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=FAİTH İS LİVE
+içerik=https://www.youtube.com/live/pdyq7lixkPI?si=NrG99xEGpf6r5mN4
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=RAFADAN TAYFA
+içerik=https://www.youtube.com/live/iWGWWFfYWig?si=Buf8uxgo2Q8PyL7h
+https://www.youtube.com/live/iWGWWFfYWig?si=f_miHJFUazHi96v3
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=RAFADAN TAYFA
+içerik=https://www.youtube.com/live/iWGWWFfYWig?si=f_miHJFUazHi96v3
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=ADANALI
+içerik=https://www.youtube.com/live/sF1AgroEr60?si=HnYFecFJpN0udo8O
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=YALAN DÜNYA
+içerik=https://www.youtube.com/live/EkI4P-gPeRc?si=CdQA0uCcNNjPXBTW
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=RADYO 7 TÜRKÜLER
+içerik=https://www.youtube.com/live/jLmMApFMuMs?si=XJZcShZI9iTtpMlD
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=ANATOLİAN ROCK MÜZİK
+içerik=https://www.youtube.com/live/JRQGif7Y7Kg?si=Yfp6qfv9wZXhh_oG
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=KISMETSE OLUR
+içerik=https://www.youtube.com/live/R7zIWyGdLLQ?si=PggqXokqQ8Se90hF
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=SİHİRLİ ANNEM
+içerik=https://www.youtube.com/live/swZASlT7HUY?si=-nknUYqd2ajISPk8
+https://www.youtube.com/live/swZASlT7HUY?si=UgRuR5DPsLgUfR3H
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=SİHİRLİ ANNEM
+içerik=https://www.youtube.com/live/swZASlT7HUY?si=UgRuR5DPsLgUfR3H
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=BEHZAT.Ç
+içerik=https://www.youtube.com/live/t2UnfQ0ieHM?si=4RMQSVscxeSK9awx
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=GÜLLER VE GÜNAHLAR
+içerik=https://www.youtube.com/live/11TEIyDtsoo?si=bUWxViJriOau12mr
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=FATMAGÜL'ÜN SUÇU NE
+içerik=https://www.youtube.com/live/DFP1abasmfU?si=l6VcHHizlpWcCmr1
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=SLOW RADYO
+içerik=https://www.youtube.com/live/XFLDi8EK7FQ?si=goKPuFDHoKzQWLMb
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=NİLOYA
+içerik=https://www.youtube.com/live/g3R4J0YC2Dk?si=tfToEW_D-AMfoAoE
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=NİLOYA
+içerik=https://www.youtube.com/live/g3R4J0YC2Dk?si=k5CqKAyTmcZuge8o
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=ÇOCUKLAR DUYMASIN
+içerik=https://www.youtube.com/live/mblraBWJaJs?si=DjvfFZ_0u9tFupjv
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=KURTLAR VADİSİ
+içerik=https://www.youtube.com/live/NzbEHkjHn6g?si=pwTER_fIBhl7-73R
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=KURTLAR VADİSİ PUSU
+içerik=https://www.youtube.com/live/D_qm_ROwNco?si=c3pnQNHcq31Xhftv
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=AŞK-I MEMNU
+içerik=https://www.youtube.com/live/JpP13Wp1ke0?si=rnT0zRmcNpT467Cw
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=SEKSENLER
+içerik=https://www.youtube.com/live/qGYlF1MiMxw?si=UlGXC4dqaXt-J4tt
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=7/24 TÜRK FİLMİ
+içerik=https://www.youtube.com/live/xOXllnISQ5A?si=Cn4d6ig63n8RjqcR
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=YAPRAK DÖKÜMÜ
+içerik=https://www.youtube.com/live/crwxJBQKWj4?si=maEOnfQYiDyVIyiM
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=BİZİMKİLER
+içerik=https://www.youtube.com/live/jvC6-s5exnI?si=NDZxyYLFcAtO8Q5L
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=TOZKOPARAN İSKENDER
+içerik=https://www.youtube.com/live/UsVmfmrVm0I?si=z1Yrf29DvYccoviD
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=7/24 KEMAL SUNAL
+içerik=https://www.youtube.com/live/_pRHXDSK8sA?si=3WUmCqLFmNjoSPnr
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=GÜLDÜR GÜLDÜR SHOW
+içerik=https://www.youtube.com/live/js9TyS-tojY?si=fJTc4SVVY8NUtirL
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=TAŞACAK BU DENİZ
+içerik=https://www.youtube.com/live/_xrjYfDRbxg?si=v0RKeSsuJCcRU2t2
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=7/24 YEŞİLÇAM FİLMLERİ
+içerik=https://www.youtube.com/live/Z5ZfND5rfJM?si=Ie7HwctvRyBTiYiw
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=PAKİSTAN DİZİLERİ
+içerik=https://www.youtube.com/live/tf0Bc8DACjM?si=fuxLwQH2QUhzYmse
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=KARPUZ & ERİK ÇOCUK ŞARKILARI
+içerik=https://www.youtube.com/live/TvZQeEVY7-A?si=319pDlHcJ17229X5
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=İSTANBUL MUHAFIZLARI
+içerik=https://www.youtube.com/live/kjFVicM7nLo?si=FmxqF4Mms3hOqIzg
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=DİYANET ÇOCUK TV
+içerik=https://www.youtube.com/live/KURUlpJkY-I?si=Nd-5deLbY6NuGjme
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=BİR GECE MASALI
+içerik=https://www.youtube.com/live/b5lUIsJZjMk?si=YO0SnRqkkCDyyTnG
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=ARKADAŞIM HOŞ GELDİN
+içerik=https://www.youtube.com/live/7--D-wer-r0?si=geSq5QvwOipLfBY4
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=SAKARYA FIRAT
+içerik=https://www.youtube.com/live/LrXSGDCnmnQ?si=Wd1Wi5qhcMihK8w7
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=KRAL ŞAKİR
+içerik=https://www.youtube.com/live/5Whk9MVTpI4?si=QfFHDli0c96qqJTV
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=AVRUPA YAKASI
+içerik=https://www.youtube.com/live/NGsjOrzwjZk?si=xGMKYQ_LK01NyYKP
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=LEYLA & MECNUN
+içerik=https://www.youtube.com/live/3nlND4audLg?si=qBTk9_UACrM6iTwR
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=EŞKİYA DÜNYAYA HÜKÜMDAR OLMAZ
+içerik=https://www.youtube.com/live/F0yeYa-SSDc?si=jyg8cb3AtsRVwV59
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=YEDİ NUMARA
+içerik=https://www.youtube.com/live/rS5dHYQsSxs?si=l_OazsbEOTqc1uRl
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=KEMAL SUNAL FİLMLERİ
+içerik=https://www.youtube.com/live/XzGR3rA9oho?si=TUnNW4SL1vDJTqEK
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=ALEMİN KRALI
+içerik=https://www.youtube.com/live/avDRwKKjeSI?si=2Mn_7-GtFtJKjhgn
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=EMRET KOMUTANIM
+içerik=https://www.youtube.com/live/dly2P8wDvzc?si=pwChS8u1_JjcGwW7
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=SEKSENLER
+içerik=https://www.youtube.com/live/qGYlF1MiMxw?si=H2wzJQFiRzf1o-h6
+logo=https://files.catbox.moe/w7upi1.jpg
+
+isim=ZEKİ & METİN FİLMLERİ
+içerik=https://www.youtube.com/live/RK5GCwb-d4Y?si=AYKGYYn_NjT9Wi7J
+logo=https://files.catbox.moe/w7upi1.jpg
 
