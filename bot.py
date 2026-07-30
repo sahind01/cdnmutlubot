@@ -8,7 +8,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 # Bot token'ı (BotFather'dan aldığınız token ile değiştirin)
-TOKEN = "8435669727:AAGoKJa1kwcS4RYExyGyZbTMUCGnVzy95kM"  # BURAYA GEÇERLİ TOKEN'INIZI YAZIN
+TOKEN = "7656070463:AAHVUMhSWKnpnpwB8_lvoQUwvvuXkKVwdb0"  # BURAYA GEÇERLİ TOKEN'INIZI YAZIN
 
 # is.gd link kısaltma API'si
 SHORTENER_URL = "https://is.gd/create.php"
