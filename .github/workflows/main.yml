@@ -23,16 +23,42 @@ jobs:
     - name: Install dependencies
       run: pip install -r requirements.txt
     
-    - name: Run bot
+    - name: Run bot (keeps running)
       env:
         TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
       run: |
-        python bot.py &
-        sleep 10
-        echo "Bot started successfully"
+        # Önceki bot prosesini öldür
+        pkill -f "python bot.py" || true
+        
+        # Botu arka planda çalıştır ve log tut
+        nohup python bot.py > bot.log 2>&1 &
+        
+        # Botun çalıştığını doğrula
+        sleep 5
+        if pgrep -f "python bot.py" > /dev/null; then
+          echo "✅ Bot başarıyla başlatıldı ve çalışıyor!"
+          echo "📋 Loglar: bot.log"
+          tail -20 bot.log
+        else
+          echo "❌ Bot başlatılamadı!"
+          tail -50 bot.log
+          exit 1
+        fi
     
-    - name: Health check
+    - name: Keep bot alive
       run: |
-        echo "Bot is running at $(date)"
-        # Burada botun çalıştığını kontrol eden komutlar
-        ps aux | grep python || true
+        # Botun çalıştığını kontrol et, durduysa yeniden başlat
+        while true; do
+          if ! pgrep -f "python bot.py" > /dev/null; then
+            echo "⚠️ Bot durdu, yeniden başlatılıyor..."
+            nohup python bot.py > bot.log 2>&1 &
+            echo "✅ Bot yeniden başlatıldı: $(date)"
+          fi
+          sleep 60
+        done &
+    
+    - name: Show bot status
+      run: |
+        echo "=== BOT DURUMU ==="
+        ps aux | grep "python bot.py" | grep -v grep || echo "Bot çalışmıyor!"
+        echo "=================="
